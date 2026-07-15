@@ -11,6 +11,9 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
+relativeURLs = true
+canonifyURLs = true
+
 buildDrafts = false
 buildFuture = false
 
