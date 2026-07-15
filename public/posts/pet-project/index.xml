@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pet-проекты on Blowfish</title>
+    <link>//localhost:1313/posts/pet-project/</link>
+    <description>Recent content in Pet-проекты on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>melnik3570@gmail.com (Мельник Наталья)</managingEditor>
+    <webMaster>melnik3570@gmail.com (Мельник Наталья)</webMaster>
+    <copyright>© 2026 Мельник Наталья</copyright>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/pet-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Телеграм-бот по справочнику преподавателей РГПУ им. А. И. Герцена</title>
+      <link>//localhost:1313/posts/pet-project/tg_bot_by_hspu/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <author>melnik3570@gmail.com (Мельник Наталья)</author>
+      <guid>//localhost:1313/posts/pet-project/tg_bot_by_hspu/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
