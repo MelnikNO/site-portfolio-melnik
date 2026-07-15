@@ -3,16 +3,13 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://melnikno.github.io/site-portfolio-melnik/"
+# baseURL = "https://melnikno.github.io/site-portfolio-melnik/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
 summaryLength = 0
-
-relativeURLs = true
-canonifyURLs = true
 
 buildDrafts = false
 buildFuture = false
