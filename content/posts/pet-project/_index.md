@@ -10,6 +10,6 @@ showDate: false
 
 Здесь я буду выкладывать то, что разработала для себя. Все это делается с целью отточить свои навыки и узнать новую информацию.
 
-- [Telegram Bot by Herzen University](/posts/pet-project/tg_bot_by_HSPU)
+- [Telegram Bot by Herzen University]({{< ref "/posts/pet-project/tg_bot_by_HSPU" >}})
 
 - [Telegram Bot "Галактика"](https://github.com/MelnikNO/tgbotGALAXYpractice3#)
