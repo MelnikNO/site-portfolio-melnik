@@ -8,10 +8,10 @@ showDate: false
 
 # Выберите тип задания
 
-- [Лабораторные работы](/posts/ВУЗ/1curs/inf_techn_in_math_lab)
+- [Лабораторные работы]({{< ref "/posts/ВУЗ/1curs/inf_techn_in_math_lab.md" >}})
 
-- [Инвариантные самостоятельные работы](/posts/ВУЗ/1curs/inf_techn_in_math_invar)
+- [Инвариантные самостоятельные работы]({{< ref "/posts/ВУЗ/1curs/inf_techn_in_math_invar.md" >}})
 
-- [Вариативные самостоятельные работы](/posts/ВУЗ/1curs/inf_techn_in_math_var)
+- [Вариативные самостоятельные работы]({{< ref "/posts/ВУЗ/1curs/inf_techn_in_math_var.md" >}})
 
-- [Подведение итогов](/posts/ВУЗ/1curs/inf_techn_in_math_result)
+- [Подведение итогов]({{< ref "/posts/ВУЗ/1curs/inf_techn_in_math_result.md" >}})
